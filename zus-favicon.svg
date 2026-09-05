@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96">
+  <!-- favicon / ไอคอนแอป ZUS (ไทล์หมึกเข้ม + Z + จุดเขียว) — export เป็น .png/.ico แล้ววาง URL ที่ ตั้งค่า F7 -->
+  <rect width="96" height="96" rx="22" fill="#16191D"/>
+  <rect x="22" y="24" width="52" height="11" fill="#F6F5F1"/>
+  <rect x="22" y="61" width="52" height="11" fill="#F6F5F1"/>
+  <polygon points="61,35 74,35 35,61 22,61" fill="#F6F5F1"/>
+  <line x1="42" y1="41" x2="54" y2="55" stroke="#16191D" stroke-width="10"/>
+  <circle cx="48" cy="48" r="4.8" fill="#1FB65B"/>
+</svg>

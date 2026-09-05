@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- ZUS — โลโก้ B+ : Z เขียนเอง (ช่องผ่านกลางตัว = ประตูทางเข้า-ออก) + จุดสถานะเขียวสัญญาณ · สีเดียวใช้กับบัตร/ใบเสร็จได้ -->
+  <rect x="10" y="10" width="80" height="17" fill="#16191D"/>
+  <rect x="10" y="73" width="80" height="17" fill="#16191D"/>
+  <polygon points="70,27 90,27 30,73 10,73" fill="#16191D"/>
+  <line x1="41" y1="38" x2="59" y2="62" stroke="#F6F5F1" stroke-width="15"/>
+  <circle cx="50" cy="50" r="6.5" fill="#1FB65B"/>
+</svg>
